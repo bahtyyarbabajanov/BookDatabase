@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books_records_db>
+
+<book_details>
+    
+    <Title>New Inside English Grammar</Title>
+    <Author>Sevil F. Soylu</Author>
+    <Author>Daniþ Soylu</Author>
+    <Publisher>NOVA</Publisher>
+    <ISBN>9944-5713-1-8</ISBN>
+    <date_of_publication>2015</date_of_publication>
+    <Price_Turkish_Lira>24,62</Price_Turkish_Lira>
+    <URL>http://http://www.dr.com.tr/Kitap/New-Inside-English-Grammar/Danis-Soylu/Egitim-Basvuru/Egitim/urunno=0000000607139</URL>
+    
+    
+    </book_details> 
+    
+    <book_details>
+    
+    <Title>Hayvanlardan Tanrýlara - Sapiens</Title>
+    <Author>Yuval Noah Harari</Author>
+    <Publisher>Kolektif Kitap</Publisher>
+    <ISBN>9786055029357</ISBN>
+    <date_of_publication>2015</date_of_publication>
+    <Price_Turkish_Lira>20,44</Price_Turkish_Lira>
+    <URL>http://www.idefix.com/kitap/hayvanlardan-tanrilara-sapiens-yuval-noah-harari/tanim.asp?sid=T881G21E08EVDLBW14I5</URL>
+    
+    
+    </book_details> 
+    
+    <book_details>
+    
+    <Title>Ted Gibi Konuþ</Title>
+    <Author>Carmine Gallo</Author>
+    <Publisher>Aganta Kitap</Publisher>
+    <ISBN>9786059851558</ISBN>
+    <date_of_publication>2015</date_of_publication>
+    <Price_Turkish_Lira>17,48</Price_Turkish_Lira>
+    <URL>http://www.idefix.com/kitap/ted-gibi-konus-carmine-gallo/tanim.asp?sid=JBXGRQCSJG5KFISEUVVK</URL>
+    
+    
+    </book_details> 
+    
+    <book_details>
+    
+    <Title>Kadýnsýz Erkekler</Title>
+    <Author>Haruki Murakami</Author>
+    <Publisher>Doðan Kitap</Publisher>
+    <ISBN>9786050930979</ISBN>
+    <date_of_publication>2016</date_of_publication>
+    <Price_Turkish_Lira>12,60</Price_Turkish_Lira>
+    <URL>http://www.idefix.com/kitap/kadinsiz-erkekler-haruki-murakami/tanim.asp?sid=EPFGDE5T7E5E4Z1K6SN3</URL>
+    
+    
+    </book_details> 
+    
+    <book_details>
+    
+    <Title>Hiçten Az</Title>
+    <Author>Slavoj Zizek</Author>
+    <Publisher>Encore</Publisher>
+    <ISBN>9786059949255</ISBN>
+    <date_of_publication>2015</date_of_publication>
+    <Price_Turkish_Lira>57,00</Price_Turkish_Lira>
+    <URL>http://www.idefix.com/kitap/hicten-az-slavoj-zizek/tanim.asp?sid=VZWVYVMPNA8AMQ3SNNCY</URL>
+    
+    
+    </book_details> 
+    
+    <book_details>
+    
+    <Title>Küçük Kara Balýk</Title>
+    <Author>Samed Behrengi</Author>
+    <Publisher>Can Çocuk Yayýnlarý</Publisher>
+    <ISBN>9789755109725</ISBN>
+    <date_of_publication>1999</date_of_publication>
+    <Price_Turkish_Lira>6,21 TL</Price_Turkish_Lira>
+    <URL>http://www.idefix.com/kitap/kucuk-kara-balik-samed-behrengi/tanim.asp?sid=KG4ZSLBDNK7KFG9QEAAN</URL>
+    
+    
+    </book_details> 
+    
+  
+    <book_details>
+    
+    <Title>Pi</Title>
+    <Author>Akilah Azra Kohen</Author>
+    <Publisher>Destek Yayýnlarý</Publisher>
+    <ISBN>9786059913959</ISBN>
+    <date_of_publication>2015</date_of_publication>
+    <Price_Turkish_Lira>19,20</Price_Turkish_Lira>
+    <URL>http://www.idefix.com/kitap/pi-akilah-azra-kohen/tanim.asp?sid=O55YXH2LH7DPDS8FN5KC</URL>
+    
+    
+    </book_details> 
+    <book_details>
+    
+    <Title>Middlesex</Title>
+    <Author>Jeffrey Eugenides</Author>
+    <Publisher> </Publisher>
+    <ISBN>9786054729418</ISBN>
+    <date_of_publication>2015</date_of_publication>
+    <Price_Turkish_Lira>21,28</Price_Turkish_Lira>
+    <URL>http://www.idefix.com/kitap/middlesex-jeffrey-eugenides/tanim.asp?sid=O2FEJHN5L71T55AHH3KV</URL>
+    
+    
+    </book_details> 
+    <book_details>
+    
+    <Title>Simyacý</Title>
+    <Author>Paulo Coelho</Author>
+    <Publisher>Can Yayýnlarý</Publisher>
+    <ISBN>9789750726439</ISBN>
+    <date_of_publication>2010</date_of_publication>
+    <Price_Turkish_Lira>12,92</Price_Turkish_Lira>
+    <URL>http://www.idefix.com/kitap/simyaci-paulo-coelho/tanim.asp?sid=FT47D2ZBOY0Y5G2ZRL29</URL>
+    
+    
+    </book_details> 
+  
+    
+    
+    <book_details>
+    
+    <Title>Sevdiðiniz Yaþamý Tasarlayýn</Title>
+    <Author>Ayþe Birsel</Author>
+    <Publisher>Optimist</Publisher>
+    <ISBN>9786053222859</ISBN>
+    <date_of_publication>2016</date_of_publication>
+    <Price_Turkish_Lira>30,40</Price_Turkish_Lira>
+    <URL>http://www.idefix.com/kitap/sevdiginiz-yasami-tasarlayin-ayse-birsel-ayse-birsel-/tanim.asp?sid=X2VZT7UM13GU6XZJZLAI</URL>
+    
+    
+    </book_details> 
+    <book_details>
+    
+    <Title>Osmanlý - Türk Anayasal Geliþmeleri</Title>
+    <Author>Bülent Tanör</Author>
+    <Publisher>Yapý Kredi Yayýnlarý</Publisher>
+    <ISBN>9789753636889</ISBN>
+    <date_of_publication>2003</date_of_publication>
+    <Price_Turkish_Lira>13.99</Price_Turkish_Lira>
+    <URL>http://www.idefix.com/kitap/osmanli-turk-anayasal-gelismeleri-bulent-tanor/tanim.asp?sid=IVRZ6AP52O5T8MXR25VX</URL>
+    
+    
+    </book_details> 
+    <book_details>
+    
+    <Title>The Nightingale</Title>
+    <Author>Kristin Hannah </Author>
+    <Publisher>St. Martin's Press</Publisher>
+    <ISBN>0312577222</ISBN>
+    <date_of_publication>2015</date_of_publication>
+    <Price_American_Dollar>16.13</Price_American_Dollar>
+    <URL>http://www.amazon.com/gp/product/0312577222/</URL>
+    
+    
+    </book_details> 
+    <book_details>
+    
+    <Title>Trigger Warning: Short Fictions and Disturbances</Title>
+    <Author>Neil Gaiman </Author>
+    <Publisher>William Morrow</Publisher>
+    <ISBN>0062330268</ISBN>
+    <date_of_publication>2015</date_of_publication>
+    <Price_American_Dollar>16.06</Price_American_Dollar>
+    <URL>http://www.amazon.com/gp/product/0062330268/</URL>
+    
+    
+    </book_details> 
+    <book_details>
+    
+    <Title>Fortune Smiles: Stories</Title>
+    <Author>Adam Johnson</Author>
+    <Publisher>Random House</Publisher>
+    <ISBN>0812997476</ISBN>
+    <date_of_publication>2015</date_of_publication>
+    <Price_American_Dollar>17.95</Price_American_Dollar>
+    <URL>http://www.amazon.com/gp/product/0812997476/</URL>
+    
+    
+    </book_details> 
+    <book_details>
+    
+    <Title>Saint Odd: An Odd Thomas Novel</Title>
+    <Author>Dean Koontz</Author>
+    <Publisher>Bantam</Publisher>
+    <ISBN>0345545877</ISBN>
+    <date_of_publication>2015</date_of_publication>
+    <Price_American_Dollar>21.06</Price_American_Dollar>
+    <URL>http://www.amazon.com/gp/product/0345545877/</URL>
+    
+    
+    </book_details> 
+    <book_details>
+    
+    <Title>Modern Romance</Title>
+    <Author>Eric Klinenberg</Author>
+    <Author>Aziz Ansari</Author>
+    <Publisher>Penguin Press</Publisher>
+    <ISBN>1594206279</ISBN>
+    <date_of_publication>2015</date_of_publication>
+    <Price_American_Dollar>17.37</Price_American_Dollar>
+    <URL>http://www.amazon.com/gp/product/1594206279/</URL>
+    
+    
+    </book_details> 
+    <book_details>
+    
+    <Title>Red Queen</Title>
+    <Author>Victoria Aveyard</Author>
+    <Publisher>HarperTeen</Publisher>
+    <ISBN>0062310631</ISBN>
+    <date_of_publication>2015</date_of_publication>
+    <Price_American_Dollar>10.68</Price_American_Dollar>
+    <URL>http://www.amazon.com/gp/product/0062310631/</URL>
+    
+    
+    </book_details> 
+    <book_details>
+    
+    <Title>The Battle of the Labyrinth (Percy Jackson and the Olympians, Book 4)</Title>
+    <Author>Rick Riordan</Author>
+    <Publisher>Disney-Hyperion</Publisher>
+    <ISBN>1423101499</ISBN>
+    <date_of_publication>2009</date_of_publication>
+    <Price_American_Dollar>5.68</Price_American_Dollar>
+    <URL>http://www.amazon.com/Battle-Labyrinth-Percy-Jackson-Olympians/dp/1423101499/</URL>
+    
+    
+    </book_details> 
+    
+      <book_details>
+    
+    <Title>Revenge </Title>
+    <Author>Lisa Jackson</Author>
+    <Publisher>Zebra</Publisher>
+    <ISBN>1420136038</ISBN>
+    <date_of_publication>2016</date_of_publication>
+    <Price_American_Dollar>5.34</Price_American_Dollar>
+    <URL>http://www.amazon.com/gp/product/1420136038?qid=1456849186</URL>
+    
+    
+    </book_details> 
+    
+      <book_details>
+    
+    <Title>I Know Why the Caged Bird Sings</Title>
+    <Author>Maya Angelou </Author>
+    <Foreword>Oprah Winfrey </Foreword>
+    <Publisher>Ballantine Books</Publisher>
+    <ISBN>0345514408</ISBN>
+    <date_of_publication>2009</date_of_publication>
+    <Price_American_Dollar>12.77</Price_American_Dollar>
+    <URL>http://www.amazon.com/Know-Why-Caged-Bird-Sings/dp/0345514408/</URL>
+    
+    
+    </book_details> 
+    
+      <book_details>
+    
+    <Title>Blood of Elves</Title>
+    <Author>Andrzej Sapkowski</Author>
+    <Publisher>Orbit</Publisher>
+    <ISBN>031602919X</ISBN>
+    <date_of_publication>2009</date_of_publication>
+    <Price_American_Dollar>349.00</Price_American_Dollar>
+    <URL>http://http://www.amazon.com/Blood-Elves-Andrzej-Sapkowski/dp/031602919X</URL>
+    
+    
+    </book_details> 
+   
+    
+
+</books_records_db>
